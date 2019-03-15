@@ -9,7 +9,7 @@ Put the corresponding datasets in /data
 Training and evaluation
 Run zskl_gaussian_ort.m
 
-# Citation
+## Citation
 @inproceedings{zhang2018zero,
   title={Zero-shot kernel learning},
   author={Zhang, Hongguang and Koniusz, Piotr},
