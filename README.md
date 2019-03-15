@@ -10,10 +10,10 @@ Training and evaluation
 Run zskl_gaussian_ort.m
 
 ## Citation
-@inproceedings{zhang2018zero,
-  title={Zero-shot kernel learning},
-  author={Zhang, Hongguang and Koniusz, Piotr},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  pages={7670--7679},
-  year={2018}
-}
+        @InProceedings{Zhang_2018_CVPR,
+        author = {Zhang, Hongguang and Koniusz, Piotr},
+        title = {Zero-Shot Kernel Learning},
+        booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+        month = {June},
+        year = {2018}
+        }
