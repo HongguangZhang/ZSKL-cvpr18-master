@@ -6,8 +6,9 @@ Download [datasets](http://datasets.d2.mpi-inf.mpg.de/xian/xlsa17.zip).
 Put the corresponding datasets in '/data'.
 
 Training and evaluation:
+```
 zskl_gaussian_ort.m
-
+```
 ## Citation
         @InProceedings{Zhang_2018_CVPR,
                 author = {Zhang, Hongguang and Koniusz, Piotr},
