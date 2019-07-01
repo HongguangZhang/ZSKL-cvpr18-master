@@ -3,7 +3,7 @@ This is the code for CVPR18 paper "Zero-shot Kernel Learning" ([paper](http://op
 
 Download [datasets](http://datasets.d2.mpi-inf.mpg.de/xian/xlsa17.zip). 
 
-Put the corresponding datasets in '/data'.
+Copy the downloaded datasets into './data'.
 
 Training and evaluation:
 ```
